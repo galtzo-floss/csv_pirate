@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Galtzo FLOSS Rakefile v1.0.2 - 2025-08-12
+# Galtzo FLOSS Rakefile v1.0.2 (modified) - 2025-08-12
 #
 # MIT License (see License.txt)
 #
