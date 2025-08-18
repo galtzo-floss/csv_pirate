@@ -1,4 +1,4 @@
-# CsvPirate
+# 🏴‍☠️ CsvPirate
 
 Easily create CSVs of any data that can be derived from any Ruby object (PORO).
 
