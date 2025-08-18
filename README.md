@@ -74,7 +74,7 @@ Initialize method (a.k.a new()) takes a hash of parameters, and creates the blan
     #   {:humanize =>'-'} first joins as above, then humanizes the string (this is the default)
     #   {:array => ['col1',col2','col3'] Uses the column names provided.  If the array's length is less than the booty array's length it reverts to :humanize =>'_'
 
-Check the source to see if there anything else hiding in there!  (HINT: There a bunch more undocumented options)
+Check the source to see if there anything else hiding in there!  (HINT: There's a bunch more undocumented options)
 
 The create method has the same parameters, and actually writes the data to the CSV.
 
